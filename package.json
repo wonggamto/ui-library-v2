@@ -1,0 +1,8 @@
+{
+  "name": "ui-library-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wonggamto/ui-library-v2.git",
+  "author": "黄锦涛 <7792275+shutiaojun@user.noreply.gitee.com>",
+  "license": "MIT"
+}
